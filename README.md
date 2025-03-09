@@ -1,4 +1,4 @@
-This is a pack of programs that I used for editing texts of Persona 5 Strikers LINKDATA.
+This is a pack of programs that I used to edit texts of Persona 5 Strikers LINKDATA.
 
 I didn't do any of the tools, most of them were made by Grok. (Yes, the X AI, I'm no programmer.)
 
