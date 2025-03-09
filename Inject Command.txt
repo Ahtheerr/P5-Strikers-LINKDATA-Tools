@@ -1,0 +1,1 @@
+Get-ChildItem -Path ".\NEW" -Filter "*.bin" | ForEach-Object { $numero = $_.BaseName; Invoke-Expression ".\linkdata.exe inject `"$($_.FullName)`" $numero LINKDATA.IDX" }
