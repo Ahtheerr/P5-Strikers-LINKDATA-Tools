@@ -11,7 +11,7 @@ https://www.virustotal.com/gui/file/90b2a3f9b13946b9cad8a41bbb179f2dd870406a1372
 https://www.virustotal.com/gui/file/62ef3b4c2f855926a6d1c41ea6ed078012019ca8e4312e470f83fcb88df7e3e2
 https://www.virustotal.com/gui/file/12cdbbad4169aa8414321dbf8b5fe92f8017bc88fe6ca596efd8ec11b0df93f8
 
-All credits to FaceOff (the group that made the russian tools.) and [Cethleann]((https://github.com/yretenai/Cethleann)) (They documented the encryption used on P5S_EnDe.).
+All credits to FaceOff (the group that made the russian tools.) and [Cethleann](https://github.com/yretenai/Cethleann) (They documented the encryption used on P5S_EnDe.).
 
 The process to edit the LINKDATA is kinda boring. (this probably could be fully automated if I knew programming...)
 
@@ -43,7 +43,7 @@ After that, Simplification-Import can be used to import the texts back to each .
 
 8 - Use P5S_EnDe to encrypt every .struct back to .bin. (Only for the PC version.)
 
-9 - Download (yes, other tool, sorry.) [this]([https://gbatemp.net/threads/dragon-quest-builders-2.528161/post-8466669]).
+9 - Download (yes, another tool, sorry.) [this](https://gbatemp.net/threads/dragon-quest-builders-2.528161/post-8466669).
 
 10 - Use the command on Inject Command.txt. (The folder where the .bins are is set to a folder called NEW, change it to whatever your folder is called.)
 
